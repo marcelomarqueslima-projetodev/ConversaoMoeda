@@ -1,8 +1,0 @@
-C:\dev\ConversaoMoeda\ConversaoMoedaDomain\bin\Debug\netcoreapp3.1\ConversaoMoedaDomain.deps.json
-C:\dev\ConversaoMoeda\ConversaoMoedaDomain\bin\Debug\netcoreapp3.1\ConversaoMoedaDomain.dll
-C:\dev\ConversaoMoeda\ConversaoMoedaDomain\bin\Debug\netcoreapp3.1\ConversaoMoedaDomain.pdb
-C:\dev\ConversaoMoeda\ConversaoMoedaDomain\obj\Debug\netcoreapp3.1\ConversaoMoedaDomain.AssemblyInfoInputs.cache
-C:\dev\ConversaoMoeda\ConversaoMoedaDomain\obj\Debug\netcoreapp3.1\ConversaoMoedaDomain.AssemblyInfo.cs
-C:\dev\ConversaoMoeda\ConversaoMoedaDomain\obj\Debug\netcoreapp3.1\ConversaoMoedaDomain.csproj.CoreCompileInputs.cache
-C:\dev\ConversaoMoeda\ConversaoMoedaDomain\obj\Debug\netcoreapp3.1\ConversaoMoedaDomain.dll
-C:\dev\ConversaoMoeda\ConversaoMoedaDomain\obj\Debug\netcoreapp3.1\ConversaoMoedaDomain.pdb
