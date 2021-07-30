@@ -1,0 +1,8 @@
+C:\dev\ConversaoMoeda\ConversaoMoedaInfraCrossCutting\bin\Debug\netcoreapp3.1\ConversaoMoedaInfraCrossCutting.deps.json
+C:\dev\ConversaoMoeda\ConversaoMoedaInfraCrossCutting\bin\Debug\netcoreapp3.1\ConversaoMoedaInfraCrossCutting.dll
+C:\dev\ConversaoMoeda\ConversaoMoedaInfraCrossCutting\bin\Debug\netcoreapp3.1\ConversaoMoedaInfraCrossCutting.pdb
+C:\dev\ConversaoMoeda\ConversaoMoedaInfraCrossCutting\obj\Debug\netcoreapp3.1\ConversaoMoedaInfraCrossCutting.AssemblyInfoInputs.cache
+C:\dev\ConversaoMoeda\ConversaoMoedaInfraCrossCutting\obj\Debug\netcoreapp3.1\ConversaoMoedaInfraCrossCutting.AssemblyInfo.cs
+C:\dev\ConversaoMoeda\ConversaoMoedaInfraCrossCutting\obj\Debug\netcoreapp3.1\ConversaoMoedaInfraCrossCutting.csproj.CoreCompileInputs.cache
+C:\dev\ConversaoMoeda\ConversaoMoedaInfraCrossCutting\obj\Debug\netcoreapp3.1\ConversaoMoedaInfraCrossCutting.dll
+C:\dev\ConversaoMoeda\ConversaoMoedaInfraCrossCutting\obj\Debug\netcoreapp3.1\ConversaoMoedaInfraCrossCutting.pdb
