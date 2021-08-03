@@ -4,7 +4,13 @@ using System.Text;
 
 namespace ConversaoMoedaDomain.Shared
 {
-    class EntityBase
+    public abstract class EntityBase
     {
+        protected EntityBase()
+        {
+            Id = Guid.NewGuid();
+        }
+
+        public Guid Id { get; set; }
     }
 }

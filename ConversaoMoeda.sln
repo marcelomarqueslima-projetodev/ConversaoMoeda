@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoMoedaInfraData", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoMoedaService", "src\ConversaoMoedaService\ConversaoMoedaService.csproj", "{860BA2D3-A0DF-4CAE-AB64-7EB6AC8993E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversaoMoedaTest", "tests\ConversaoMoedaApiTest\ConversaoMoedaTest.csproj", "{58E10E5C-3325-473A-A94E-AE3D36065F58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{860BA2D3-A0DF-4CAE-AB64-7EB6AC8993E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{860BA2D3-A0DF-4CAE-AB64-7EB6AC8993E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{860BA2D3-A0DF-4CAE-AB64-7EB6AC8993E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E10E5C-3325-473A-A94E-AE3D36065F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E10E5C-3325-473A-A94E-AE3D36065F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E10E5C-3325-473A-A94E-AE3D36065F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E10E5C-3325-473A-A94E-AE3D36065F58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
